@@ -1,4 +1,4 @@
-[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)]
+![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">A passionate advance frontend developer from India</h3>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumar8400&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumar8400" /> </p>
 
-- 🌱 I’m currently learning **Redux, TypeScript, Webpack**
+- 🌱 I’m currently learning **TypeScript, Webpack**
 
 - 📫 How to reach me **manojprajapati8400@gmail.com**
 
